@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Cinzel&display=swap');
+.xxx {
+  background-size: 100%;
+  display: inline-block;
+  position: relative;
+}
+
+.log {
+  font-family: 'Cinzel', serif;
+  color: #2F2F2F;
+  font-size: 65px;
+  display: inline-block;
+  position: absolute;
+  top: 40%;
+  left: 17%;
+}
